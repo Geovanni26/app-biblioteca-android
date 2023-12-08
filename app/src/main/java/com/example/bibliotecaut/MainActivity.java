@@ -21,5 +21,3 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-//Aplicacón en donde el primer intent con un diseño de bienvenida y un botón, hasta que se le de click nos
-//mandará a otro intent.
