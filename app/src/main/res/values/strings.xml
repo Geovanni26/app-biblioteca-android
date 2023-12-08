@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bibliotecaUT</string>
+    <string name="BtnEntrar">ENTRAR</string>
+
+    <string name="BtnRegresar">Anterior</string>
+
+</resources>
